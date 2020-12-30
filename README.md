@@ -3,7 +3,7 @@
   <p>
     A web app that allows you to enter the grades of your students (which could be any number between 0 and 20) and see statistics about the grades
     <br />
-    <a href="https://name-variatons-app.vercel.app/"><strong>Website »</strong></a>
+    <a href="https://classroom-statistics.vercel.app/"><strong>Website »</strong></a>
   </p>
 </div>
 
